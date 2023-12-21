@@ -1,1 +1,8 @@
-This is my dev environment. Committed for easy ref.
+##Dotfiles and Configuration Files for My Machine: Installing Using Stow
+
+- Install using `stow`:
+- `stow` installation command:
+
+```bash
+stow --target ~/.config .
+```
